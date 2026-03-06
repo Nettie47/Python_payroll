@@ -1,0 +1,13 @@
+Cooper 22.00 40
+Smith 17.00 38
+Rogers 25.99 40
+Crowe 16.43 34
+Hubert 18.75 32
+Vanbiesbrouck 20.00 40
+Jones 19.00 28
+Ng 20.00 40
+Lambert 15.00 34
+Brown 115.00 9
+Dietrich 21.50 22
+Stevens 31.00 40
+Watson 15.00 38
